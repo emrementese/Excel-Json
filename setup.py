@@ -6,7 +6,7 @@ with open("README.md", "r",encoding='UTF-8') as readme_file:
     readme = readme_file.read()
 
 NAME = "excel-json"
-DESCRIPTION = ("Get crypto coin informations & calculate the custom or constant indicators. (WITH BINANCE API)")
+DESCRIPTION = ("Read & Write Excel fro python. Basic file operations and Excel - Json converter for python.")
 AUTHOR = "Emre MENTESE"
 URL = "https://github.com/emrementese/excel-json"
 VERSION = "0.1.0"
